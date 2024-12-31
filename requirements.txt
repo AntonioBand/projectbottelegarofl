@@ -1,3 +1,2 @@
-aiogram==3.0.0b6
-python-dotenv==1.0.0
-pillow==10.0.0
+"python-telegram-bot==20.3" 
+"Pillow==9.5.0" 
